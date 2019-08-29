@@ -1,16 +1,6 @@
 # contador_de_pessoas
 
-A new Flutter application.
+Aplicação que avisa quando um estabelecimento está lotado, podendo ser utilizado em qualquer local que tem limite de pessoas para controle de segurança.
 
-## Getting Started
+Este programa faz parte do curso "Criando 16 Apps para Android e iOs usando Flutter" da Udemy. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
